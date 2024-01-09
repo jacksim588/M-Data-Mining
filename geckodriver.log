@@ -1,0 +1,484 @@
+1680603543650	geckodriver	INFO	Listening on 127.0.0.1:65237
+1680603546701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileeQksxT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603547497	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603547504	Marionette	INFO	Listening on port 65248
+Read port: 65248
+WebDriver BiDi listening on ws://127.0.0.1:65238
+1680603547670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileeQksxT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65238/devtools/browser/cd834f03-36fc-423c-acdc-08c629154dc2
+1680603571962	Marionette	INFO	Stopped listening on port 65248
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680603843638	geckodriver	INFO	Listening on 127.0.0.1:49285
+1680603846669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilezscL6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603847100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603847106	Marionette	INFO	Listening on port 49298
+Read port: 49298
+WebDriver BiDi listening on ws://127.0.0.1:49286
+1680603847234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilezscL6o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49286/devtools/browser/178a78b6-e361-4fa5-90ca-4fa027912b6c
+1680603867294	Marionette	INFO	Stopped listening on port 49298
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20064, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+1680603885171	geckodriver	INFO	Listening on 127.0.0.1:49396
+1680603888243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilepzhqSB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603888672	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603888678	Marionette	INFO	Listening on port 49411
+Read port: 49411
+WebDriver BiDi listening on ws://127.0.0.1:49397
+1680603888815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilepzhqSB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49397/devtools/browser/e5fbdf61-dfa8-453c-8010-bf1fa464d993
+1680603899606	Marionette	INFO	Stopped listening on port 49411
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680603970533	geckodriver	INFO	Listening on 127.0.0.1:49544
+1680603973568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileMhnLxY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603973977	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603973983	Marionette	INFO	Listening on port 49557
+Read port: 49557
+WebDriver BiDi listening on ws://127.0.0.1:49545
+1680603974112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileMhnLxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49545/devtools/browser/c7a3922f-c40c-4a39-987f-8c60f5ec7262
+1680604009287	Marionette	INFO	Stopped listening on port 49557
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680604140567	geckodriver	INFO	Listening on 127.0.0.1:49815
+1680604143585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilexKMq5R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604144067	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604144074	Marionette	INFO	Listening on port 49828
+Read port: 49828
+WebDriver BiDi listening on ws://127.0.0.1:49816
+1680604144307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilexKMq5R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49816/devtools/browser/690ffcf3-35d2-438f-b44a-a9ffcad00136
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: Error: Failed to fetch https://groceries.morrisons.com/browse/meat-poultry-179549?display=10000&sort=NAME_ASC. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://groceries.morrisons.com/browse/meat-poultry-179549?display=10000&sort=NAME_ASC. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://groceries.morrisons.com/browse/meat-poultry-179549?display=10000&sort=NAME_ASC. Code 2152398879.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:320:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1680604260113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileHcdhD2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604260530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604260536	Marionette	INFO	Listening on port 50223
+Read port: 50223
+WebDriver BiDi listening on ws://127.0.0.1:50211
+1680604260663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileHcdhD2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50211/devtools/browser/f9f1b7fc-1143-4315-8c67-c7667f665113
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: Error: Failed to fetch https://groceries.morrisons.com/browse/meat-poultry-179549?display=10000&sort=NAME_ASC. Code 2152398879.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://groceries.morrisons.com/browse/meat-poultry-179549?display=10000&sort=NAME_ASC. Code 2152398879.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://groceries.morrisons.com/browse/meat-poultry-179549?display=10000&sort=NAME_ASC. Code 2152398879.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680604440781	Marionette	INFO	Stopped listening on port 50223
+Dynamically enable window occlusion 1
+1680604443805	geckodriver	INFO	Listening on 127.0.0.1:50615
+1680604446850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileEjIn5R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604447331	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604447345	Marionette	INFO	Listening on port 50628
+Read port: 50628
+WebDriver BiDi listening on ws://127.0.0.1:50616
+1680604447574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileEjIn5R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50616/devtools/browser/65453d52-9949-4410-86ba-8330d4af765c
+1680605129030	Marionette	INFO	Stopped listening on port 50628
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10840, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+te settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604559975	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604559983	Marionette	INFO	Listening on port 54298
+Read port: 54298
+WebDriver BiDi listening on ws://127.0.0.1:54285
+1680604560185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileOLOT1U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54285/devtools/browser/5f4614e6-f8f7-4a1b-b14f-65d8faf1c89a
+1680605129967	Marionette	INFO	Stopped listening on port 54298
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileN6nQfB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604664290	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604664297	Marionette	INFO	Listening on port 54462
+Read port: 54462
+WebDriver BiDi listening on ws://127.0.0.1:54447
+1680604664425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileN6nQfB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54447/devtools/browser/d8e5c712-73e0-4e37-a519-c83adb1f5cc6
+1680604719434	Marionette	INFO	Stopped listening on port 54462
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680604735861	geckodriver	INFO	Listening on 127.0.0.1:54753
+1680604738896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileKBnbD6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604739304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604739310	Marionette	INFO	Listening on port 54764
+Read port: 54764
+WebDriver BiDi listening on ws://127.0.0.1:54754
+1680604739421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileKBnbD6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54754/devtools/browser/2e9a7ea3-e121-4c28-b647-1600863d70e2
+1680604801107	Marionette	INFO	Stopped listening on port 54764
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680604804033	geckodriver	INFO	Listening on 127.0.0.1:54914
+1680604807073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileK1QRja"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604807567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604807574	Marionette	INFO	Listening on port 54926
+Read port: 54926
+WebDriver BiDi listening on ws://127.0.0.1:54915
+1680604807875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileK1QRja\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54915/devtools/browser/97710d0f-5328-4b5e-b625-19e4b9e3df29
+JavaScript error: https://cdn-ukwest.onetrust.com/scripttemplates/6.24.0/otBannerSdk.js, line 7: TypeError: Bt(...).el[0] is undefined
+1680605130818	Marionette	INFO	Stopped listening on port 54926
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileqMMV5Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680604984590	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680604984595	Marionette	INFO	Listening on port 55218
+WebDriver BiDi listening on ws://127.0.0.1:55203
+Read port: 55218
+Read port: 55218
+1680604989219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileqMMV5Y\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:55203/devtools/browser/4834c9ce-631f-4b9a-bfd7-5767372c13eb
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 468))
+1680605107209	Marionette	INFO	Stopped listening on port 55218
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680605133892	geckodriver	INFO	Listening on 127.0.0.1:55731
+1680605136928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55732" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilekeDcEK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680605137433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680605137441	Marionette	INFO	Listening on port 55743
+Read port: 55743
+WebDriver BiDi listening on ws://127.0.0.1:55732
+1680605137702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilekeDcEK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55732/devtools/browser/49995595-8373-4628-b2cc-5dc653d7ee8d
+1680605276017	Marionette	INFO	Stopped listening on port 55743
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680605279357	geckodriver	INFO	Listening on 127.0.0.1:56000
+1680605282356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofile9lGEzh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680605282784	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680605282789	Marionette	INFO	Listening on port 56016
+Read port: 56016
+WebDriver BiDi listening on ws://127.0.0.1:56001
+1680605282908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofile9lGEzh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56001/devtools/browser/1a76b360-22f8-417a-9311-7bba0e2f8742
+1680605550661	Marionette	INFO	Stopped listening on port 56016
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680605564457	geckodriver	INFO	Listening on 127.0.0.1:56758
+1680605567503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileB9hMHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680605567947	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680605567952	Marionette	INFO	Listening on port 56770
+WebDriver BiDi listening on ws://127.0.0.1:56759
+Read port: 56770
+1680605568339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileB9hMHo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56759/devtools/browser/8792e2ce-471f-4ffe-8908-616472c49f20
+1680610689233	Marionette	INFO	Stopped listening on port 56770
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680612657755	geckodriver	INFO	Listening on 127.0.0.1:63070
+1680612660814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilepBqXOf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680612661518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680612661524	Marionette	INFO	Listening on port 63083
+Read port: 63083
+WebDriver BiDi listening on ws://127.0.0.1:63071
+1680612661667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilepBqXOf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63071/devtools/browser/9fbca08b-fa07-4dae-b2e4-adbe7518f10e
+1680612694092	Marionette	INFO	Stopped listening on port 63083
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680612760378	geckodriver	INFO	Listening on 127.0.0.1:63325
+1680612763427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileMLZxNa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680612763931	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680612763937	Marionette	INFO	Listening on port 63341
+Read port: 63341
+WebDriver BiDi listening on ws://127.0.0.1:63326
+1680612764075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileMLZxNa\\search.json.mozlz4", (void 0)))
+1680612766167	Marionette	INFO	Stopped listening on port 63341
+Dynamically enable window occlusion 1
+1680612766185	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1680612773417	geckodriver	INFO	Listening on 127.0.0.1:63358
+1680612776464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileO7VD8i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680612776895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680612776901	Marionette	INFO	Listening on port 63370
+Read port: 63370
+WebDriver BiDi listening on ws://127.0.0.1:63359
+1680612777034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileO7VD8i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63359/devtools/browser/9de90b1f-95b8-44f9-879f-44780b349e86
+1680612794945	Marionette	INFO	Stopped listening on port 63370
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680612796831	geckodriver	INFO	Listening on 127.0.0.1:63446
+1680612799883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofile1f8hBk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680612800330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680612800337	Marionette	INFO	Listening on port 63459
+Read port: 63459
+WebDriver BiDi listening on ws://127.0.0.1:63447
+1680612800514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofile1f8hBk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63447/devtools/browser/f41580e4-7d3e-4148-bcfc-d0bb8e4e9c14
+1680612940509	Marionette	INFO	Stopped listening on port 63459
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680613013765	geckodriver	INFO	Listening on 127.0.0.1:63748
+1680613016828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofiletJafb5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680613017309	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680613017315	Marionette	INFO	Listening on port 63760
+Read port: 63760
+WebDriver BiDi listening on ws://127.0.0.1:63749
+1680613017471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofiletJafb5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63749/devtools/browser/46061762-8986-4d49-baf0-4a1df419e99e
+1680613176824	Marionette	INFO	Stopped listening on port 63760
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+ata\\Local\\Temp\\rust_mozprofilerOxC4B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680613131964	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680613131970	Marionette	INFO	Listening on port 63939
+Read port: 63939
+WebDriver BiDi listening on ws://127.0.0.1:63928
+1680613132108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofilerOxC4B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63928/devtools/browser/7aa99d0e-432e-4e28-b6c3-3ba03da23352
+1680613825866	Marionette	INFO	Stopped listening on port 63939
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofile8tol3u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680613591836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680613591844	Marionette	INFO	Listening on port 49462
+Read port: 49462
+WebDriver BiDi listening on ws://127.0.0.1:49448
+1680613592092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofile8tol3u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49448/devtools/browser/6f88ead4-3c67-44a5-8491-8519d3e83124
+1680614514721	Marionette	INFO	Stopped listening on port 49462
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680614527279	geckodriver	INFO	Listening on 127.0.0.1:53302
+1680614530309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileGn3xa0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680614531015	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680614531021	Marionette	INFO	Listening on port 53316
+WebDriver BiDi listening on ws://127.0.0.1:53303
+Read port: 53316
+Read port: 53316
+1680614536375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileGn3xa0\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:53303/devtools/browser/b1bbe4e3-4bfe-4be5-8d57-6572a85dcad0
+1680617375549	Marionette	INFO	Stopped listening on port 53316
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680617434608	geckodriver	INFO	Listening on 127.0.0.1:57988
+1680617437661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileqtfcxC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680617438283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680617438291	Marionette	INFO	Listening on port 57999
+Read port: 57999
+WebDriver BiDi listening on ws://127.0.0.1:57989
+1680617438449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileqtfcxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57989/devtools/browser/c88fdd9e-45d3-4c62-b44b-9b7588e8af42
+1680619148169	Marionette	INFO	Stopped listening on port 57999
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680619299015	geckodriver	INFO	Listening on 127.0.0.1:49284
+1680619302049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileT76tMT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680619302528	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680619302534	Marionette	INFO	Listening on port 49296
+Read port: 49296
+WebDriver BiDi listening on ws://127.0.0.1:49285
+1680619302679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileT76tMT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49285/devtools/browser/4b2ff1a8-804e-437f-a77e-b5497a9de6ec
+1680619956178	Marionette	INFO	Stopped listening on port 49296
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680620319810	geckodriver	INFO	Listening on 127.0.0.1:57247
+1680620322853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileLejdMB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680620323817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680620323823	Marionette	INFO	Listening on port 57262
+Read port: 57262
+WebDriver BiDi listening on ws://127.0.0.1:57248
+1680620323948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLAMFI~1\\AppData\\Local\\Temp\\rust_mozprofileLejdMB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57248/devtools/browser/0c08163b-8efa-40ec-b976-e8cde960593d
+1680621311224	Marionette	INFO	Stopped listening on port 57262
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
